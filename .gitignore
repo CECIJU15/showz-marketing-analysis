@@ -1,0 +1,19 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+env/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Datos grandes (opcional, si no quieres subirlos)
+data/*.csv
+*.zip
+*.gz
