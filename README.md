@@ -4,10 +4,10 @@ El objetivo es ayudar a la empresa **Showz**, que se dedica a la venta de entrad
 
 ## 📌 Objetivo del proyecto
 
-- Analizar cómo los usuarios utilizan la plataforma.
-- Estudiar cuándo comienzan a comprar tras visitar el sitio.
-- Calcular el valor de vida del cliente (LTV).
-- Evaluar la rentabilidad de las diferentes fuentes de marketing.
+- Analizar el comportamiento de los usuarios desde su primer acceso hasta la conversión.
+- Evaluar la rentabilidad de las campañas de marketing.
+- Calcular métricas clave como LTV, CAC, y ROMI.
+- Formular recomendaciones basadas en datos para optimizar el presupuesto de marketing.
 
 ## 🗂️ Datos utilizados
 
