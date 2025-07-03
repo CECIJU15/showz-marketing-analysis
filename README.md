@@ -44,12 +44,14 @@ Se generaron gráficos para mostrar la evolución de las métricas clave en el t
 
 ## 📁 Estructura del proyecto
 
+```plaintext
 📦 showz-marketing-analysis
-├── data/ # Archivos CSV originales
-├── notebook.ipynb # Análisis en Jupyter Notebook
-├── README.md # Este archivo
-
-
+├── 📁 data                      # Archivos CSV originales
+│   ├── visits_log_us.csv        # Registro de sesiones de usuarios en el sitio web
+│   ├── orders_log_us.csv        # Pedidos realizados por los usuarios
+│   └── costs_us.csv             # Gastos de marketing diarios por fuente.
+├── 📄 notebook.ipynb            # Análisis en Jupyter Notebook
+└── 📄 README.md                 # Este archivo
 
 ## 👤 Autor
 
