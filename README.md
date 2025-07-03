@@ -52,6 +52,7 @@ Se generaron gráficos para mostrar la evolución de las métricas clave en el t
 │   └── costs_us.csv             # Gastos de marketing diarios por fuente.
 ├── 📄 notebook.ipynb            # Análisis en Jupyter Notebook
 └── 📄 README.md                 # Este archivo
+```
 
 ## 👤 Autor
 
